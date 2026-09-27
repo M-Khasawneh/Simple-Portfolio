@@ -44,7 +44,7 @@ As I learn new technologies and build more projects, I plan to continuously impr
 
 ## 🔗 Live Website
 
-**Portfolio:** [Visit My Portfolio](https://m-khasawneh.github.io/Semple-Portfolio/)
+**Portfolio:** [Visit My Portfolio](https://m-khasawneh.github.io/Simple-Portfolio/)
 
 ## 📬 Contact
 
