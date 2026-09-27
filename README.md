@@ -195,9 +195,6 @@ You can then open `index.html` directly in your browser or use **Live Server** i
 
 ### 🔗 Portfolio
 <a href="https://m-khasawneh.github.io/Simple-Portfolio/">Visit My Portfolio</a>
-ش
-
-
 </div>
 
 ---
